@@ -9,7 +9,7 @@ the event of an emergency. These will lessen the soldier's risk and provide medi
 attention as quickly as possible.
 
 
-Soldier identification tags prove to be one of the most under-studied and underresearched areas of study. The only distinguishing object in combat is a metal 
+Soldier identification tags prove to be one of the most under-studied and under-researched areas of study. The only distinguishing object in combat is a metal 
 identification tag with the soldier's information on it. To locate and recognize those who 
 have been killed, scan the entire war zone for dead bodies or identification tags. This 
 task is not only time-consuming but also expensive, and it necessitates a large number 
